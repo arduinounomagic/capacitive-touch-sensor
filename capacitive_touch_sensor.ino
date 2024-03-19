@@ -1,3 +1,7 @@
+//Copyright (C) 2007 Free Software Foundation, Inc. <arduinounomagic@gmail.com>
+//For more projects please visit://www.arduinounomagic.com
+//How to use capacitive touch sensor with Arduino Uno
+
 const int Touch_pin=2; //Connect the sensor at pin 2
 
 void setup()
